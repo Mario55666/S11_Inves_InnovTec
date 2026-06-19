@@ -1,6 +1,6 @@
 # Gabinete del Detective — Misión Semiótica
 
-> *Expediente principal · Curso de Semiótica de la Imagen 2026 · IUTP Lima*
+> *Expediente principal · Unidad Didáctica de Investigacion e Innovación Tecnológica · IDC Lima*
 
 Experiencia educativa gamificada de análisis semiótico y antropológico de la imagen publicitaria. El estudiante asume el rol de investigador/detective que debe descifrar los códigos, mitos e ideologías ocultos en una campaña cultural de ONG sobre identidad cultural y diversidad. La actividad integra **refuerzo activo del aprendizaje**: cada error desencadena un minijuego de refuerzo antes de continuar.
 
