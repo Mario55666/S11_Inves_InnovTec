@@ -80,7 +80,7 @@ index.html
 ## Autor
 
 **Mg. Mario Quiroz Martínez**  
-Curso de Semiótica de la Imagen · 2026  
+Unidad Didáctica de Investigacion e Innovación Tecnológica · 2026  
 Instituto de Educación Superior "Diseño y Comunicación" · Lima, Perú
 
 ---
